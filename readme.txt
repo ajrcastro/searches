@@ -1,0 +1,1 @@
+This project is an implementation of search algorithms utilizing the game of PacMan. The main code used to solve to problems in the project is located in search.py and searchAgents.py
